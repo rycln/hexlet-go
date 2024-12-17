@@ -1,4 +1,4 @@
-module github.com/rycln/hexlet-go
+module github.com/rycln/hexlet-go/v2
 
 go 1.23.3
 

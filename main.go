@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	color.Cyan(greeting.Hello())
+	color.Blue(greeting.Hello())
 }
