@@ -1,11 +1,10 @@
 package main
 
 import (
-	"fmt"
-
-	"./greeting"
+	"github.com/fatih/color"
+	"github.com/rycln/hexlet-go/greeting"
 )
 
 func main() {
-	fmt.Println(greeting.Hello())
+	color.Cyan(greeting.Hello())
 }
